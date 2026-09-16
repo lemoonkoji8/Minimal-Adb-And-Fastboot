@@ -1,0 +1,1 @@
+# Minimal-Adb-And-Fastboot
